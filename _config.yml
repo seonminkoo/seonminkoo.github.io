@@ -22,7 +22,7 @@ subtitle                 : "차근차근 쌓아가는" # site tagline that appea
 name                     : "Seonmin Koo"
 description              : "NLP, DA, Security, Algorithm 이것저것 공부하는 블로그입니다."
 url                      : "https://seonminkoo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "seonminkoo/seonminkoo.github.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
