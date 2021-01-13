@@ -1,11 +1,13 @@
 # main links
 main:
   - title: "Categories"
-    url: https://seonminkoo.github.io//categories/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About"
-     url: https://seonminkoo.github.io//about/
+    url: /categories/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Tags"
+     url: /tags/ 
+   #- title: "About"
+   #  url: /about/
    - title: "Sample Posts"
-     url: https://seonminkoo.github.io/posts/
+     url: /posts/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
