@@ -92,15 +92,42 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       #### **International Conference**
+        - Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts
+        
+          The 2024 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2024 Main</mark>
+        
+          **Seonmin Koo(*)**, Jinsung Kim(*), YoungJoon Jang, Chanjun Park, and Heuiseok Lim
+
         - PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models
 
           The 2024 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2024 Main</mark>
 
           Jinsung Kim(*), **Seonmin Koo(*)**, and Heuiseok Lim
-        - PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models
-          The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main)
-          Jinsung Kim, Seonmin Koo, and Heuiseok Lim
+
+        - Search if you don’t know! Knowledge-Augmented Korean Grammatical Error Correction with Large Language Models
+        
+          The 2024 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2024 Findings</mark>
+        
+          **Seonmin Koo(*)**, Jinsung Kim(*), Chanjun Park, and Heuiseok Lim
+        
+        - Revisiting Under-represented Knowledge of Latin American Literature in Large Language Models
+          
+          The 27th European Conference on Artificial Intelligence <mark>ECAI 2024 Main</mark>
+          
+          Jinsung Kim(*), **Seonmin Koo(*)**, and Heuiseok Lim
+
+        - KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing
+        
+          The 2023 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2023 Main</mark>
+          
+          **Seonmin Koo(*)**, Chanjun Park(*), Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, and Heuiseok Lim 
       
+      #### *International Journal*
+        - Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts
+        
+          The 2024 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2024 Main</mark>
+        
+          **Seonmin Koo(*)**, Jinsung Kim(*), YoungJoon Jang, Chanjun Park, and Heuiseok Lim
   
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
