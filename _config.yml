@@ -222,6 +222,17 @@ content:
         - A parallel corpus filtering methodology that automatically selects and removes data that is not suitable for training data
         - In collaboration with Naver Papago team
 
+  - title: A Little More About Me
+    layout: text
+    content: | 
+      - Certificates
+        - National Science and Technology Big Data Analysis Article (2021)
+        - SQLD: Structured Query Language Developer (2020)
+        - ADsP : Advanced Data Analytics Semi-Professional (2019)
+      
+      - Hobbies
+        - Must-go Restaurant Tour
+        - Taekwondo
 
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
