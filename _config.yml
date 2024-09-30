@@ -94,12 +94,8 @@ content:
       - layout: top-right
         title: Korea University
         sub_title: Ph.D. Candidate (The Integrated Master&Ph.D. Course)
-        caption: 2022.03 - Present
-        quote: >
-          Computer Science and Engineering Artificial Intelligence Applications
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-      
+        sub_title: Computer Science and Engineering Artificial Intelligence Applications
+        caption: 2022.03 - Present      
 
 
   # - title: Projects # Title for the section
