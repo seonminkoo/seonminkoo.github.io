@@ -16,7 +16,7 @@ email: fhdahd@korea.ac.kr
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 # twitter_username: jekyllrb
