@@ -92,8 +92,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       #### International Conference
-        - PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models \\ 
-          The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main) \\ 
+        - PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models \n
+          The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main) \n
           Jinsung Kim(*), **Seonmin Koo(*)**, and Heuiseok Lim
         - PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models
           The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main)
