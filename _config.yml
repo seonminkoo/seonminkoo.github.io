@@ -225,12 +225,12 @@ content:
   - title: A Little More About Me
     layout: text
     content: | 
-      - Certificates
+      - **Certificates**
         - National Science and Technology Big Data Analysis Article (2021)
         - SQLD: Structured Query Language Developer (2020)
         - ADsP : Advanced Data Analytics Semi-Professional (2019)
       
-      - Hobbies
+      - **Hobbies**
         - Must-go Restaurant Tour
         - Taekwondo
 
