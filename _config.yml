@@ -6,8 +6,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: NLP Researcher
-title: Seonmin Koo
+name: Seonmin Koo
+title: NLP Researcher
 email: fhdahd@korea.ac.kr
 email_title: Contact
 # phone: Your phone number (optional)
