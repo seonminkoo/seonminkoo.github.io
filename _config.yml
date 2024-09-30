@@ -9,7 +9,7 @@ version: 2
 name: NLP Researcher
 title: Seonmin Koo
 email: fhdahd@korea.ac.kr
-# email_title: Email (Email title override)
+email_title: Contact
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
 # website: Your website (eg. https://google.com)(optional)
