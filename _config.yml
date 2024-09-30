@@ -147,11 +147,43 @@ content:
           Jaehyung Seo, Seounghoon Lee, Chanjun Park, Yoonna Jang, Hyeonseok Moon, Sugyeong Eo, **Seonmin Koo**, Heuiseok Lim
       
       #### **International Journal**
-        - Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts
+        - A Large-Scale Dataset for Korean Document-level Relation Extraction from Encyclopedia Texts
         
-          The 2024 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2024 Main</mark>
+          Applied Intelligence, open access, 2024
+          
+          Suhyune Son, Jungwoo Lim, **Seonmin Koo**, Jinsung Kim, Younghoon Kim, Youngsik Lim, Dongseok Hyun, and Heuiseok Lim
+          
+        - A Multi-Faceted Exploration Incorporating Question Difficulty in Knowledge Tracing for English Proficiency Assessment 
+          
+          Electronics, 12(19), 4171, 2023 
         
-          **Seonmin Koo(*)**, Jinsung Kim(*), YoungJoon Jang, Chanjun Park, and Heuiseok Lim
+          Jinsung Kim(\*), **Seonmin Koo(\*)**, and Heuiseok Lim
+          
+        - Doubts on the reliability of parallel corpus filtering
+        
+          Expert Systems with Applications (ESWA), 233, 120962., 2023
+          
+          Hyeonseok Moon, Chanjun Park, **Seonmin Koo**, Jungseob Lee, Seungjun Lee, Jaehyung Seo, Sugyeong Eo, Yoonna Jang, Hyunjoong Kim, Hyoung-gyu Lee, Heuiseok Lim
+          
+        
+        - Uncovering the Risks and Drawbacks Associated with the Use of Synthetic Data for Grammatical Error Correction
+        
+          IEEE Access, 2023
+          
+          **Seonmin Koo**, Chanjun Park, Seolhwa Lee, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim
+          
+        - A Survey on Evaluation Metrics for Machine Translation
+        
+          Mathematics, 2023
+          
+          Seungjun Lee, Jungseob Lee, Hyeonseok Moon, Chanjun Park, Jaehyung Seo, Sugyeong Eo, **Seonmin Koo**, Heuiseok Lim
+          
+        - K-NCT: Korean Neural Grammatical Error Correction Gold-Standard Test Set Using Novel Error Type Classification Criteria
+        
+          IEEE Acess, 2022
+          
+          **Seonmin Koo(\*)**, Chanjun Park(*), Jaehyung Seo, Seungjun Lee, Hyeonseok Moon, Jungseob Lee, Heuiseok Lim
+
   
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
