@@ -76,7 +76,7 @@ content:
   - title: Education
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Korea University (2022.03 - Present)
+      - **Korea University (2022.03 - Present)**
         - Ph.D. Candidate (The Integrated Master&Ph.D. Course)
         - Computer Science and Engineering Artificial Intelligence Applications
       - Konkuk University (2018.03 - 2022.02)
