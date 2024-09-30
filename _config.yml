@@ -56,14 +56,6 @@ about_content: | # this will include new lines to allow paragraphs
   
   In 2021, she worked as a research student at ETRI's Language Intelligence Laboratory. She is currently part of the Natural Language Processing and Artificial Intelligence (NLP&AI) Laboratory. Her research interests include natural language processing, in particular, post-processing, information extraction, information retrieval, dialogue systems, and large language models.
 
-  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-  #   - Lists
-  #   - Tables
-  #   - <a href="google.com">Links</a>
-  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
