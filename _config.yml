@@ -91,7 +91,7 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      #### *International Conference*
+      #### **International Conference**
         - PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models
 
           The 2024 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2024 Main</mark>
