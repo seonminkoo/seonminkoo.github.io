@@ -184,7 +184,45 @@ content:
           
           **Seonmin Koo(\*)**, Chanjun Park(*), Jaehyung Seo, Seungjun Lee, Hyeonseok Moon, Jungseob Lee, Heuiseok Lim
 
-  
+  - title: Projects
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - **Hyundai Motor Company (2024-2025)**
+        - Development of TableQA model and framework
+        - In collaboration with the Infotainment department of Hyundai Motor Company
+
+      - **Miri Canvans Company(2024-2024)**
+        - Development of a model for extracting compatible elements
+        - Model that identifies the most compatible images (elements) with surrounding design elements based on the elements returned by the input text
+        - In collaboration with Miri Canvas
+      
+      - **CYD ASR Post-Processing (2022-2024)**
+        - Generating post-processor data through an automatic parallel corpus generation methodology and a noisy method
+        - Developing a AST post-processing that improves performance by correcting speech recognition results
+      
+      - **NC Soft Persona Dialogue System (2023-2023)**
+        - Persona-grounded dialogue generation framework development
+        - Personal information and dialogue history datastore construction w/ kNN method
+        - kNN datastore + PLM inference (e.g., DialoGPT, GODEL)
+        - Persona data augmentation w/ knowledge base and LLM
+        - In collaboration with Language Understanding team, Dialogue team, and LLM team of NC Soft
+      
+      - **KIGAM Mineral Deposit Prediction Project (2023-2023)**
+        - Development of Ni, Co, Li mineral deposit prediction model using AI
+        - In collaboration with Korea Institute of Geoscience and Mineral Resources (KIGAM)
+      
+      - **Naver Corporation (2022-2023)**
+        - Korean document-based relation extraction (RE) framework development
+        - Semi-automated RE data construction method design
+        - Model training w/ Naver encyclopedia
+        - In collaboration with Naver Encyclopedia team
+      
+      - **Naver Papago (2021-2022)**
+        - Development of high-performance parallel corpus filtering technology
+        - A parallel corpus filtering methodology that automatically selects and removes data that is not suitable for training data
+        - In collaboration with Naver Papago team
+
+
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
   #   content:
