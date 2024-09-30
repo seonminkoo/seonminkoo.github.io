@@ -63,6 +63,15 @@ content:
       - 09/2024 “Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts” has been accepted to EMNLP 2024.
       - 09/2024 “PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models” has been accepted to EMNLP 2024.
       - 09/2024 “Search if you don’t know! Knowledge-Augmented Korean Grammatical Error Correction with Large Language Models” has been accepted to Findings of EMNLP 2024.
+    
+  - title: Research Interest
+    layout: text
+    content: | 
+      - Natural Language Processing
+      - Post-processing
+      - Information Extraction and Retrieval
+      - Dialogue System
+      - Large Language Model
 
   - title: Education
     layout: list
