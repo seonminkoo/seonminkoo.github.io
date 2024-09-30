@@ -74,7 +74,7 @@ content:
       - Large Language Model
           
   - title: Education
-    layout: list
+    layout: text
     content: | # this will include new lines to allow paragraphs
       - Korea University (2022.03 - Present)
         - Ph.D. Candidate (The Integrated Master&Ph.D. Course)
