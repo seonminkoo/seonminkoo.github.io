@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   In 2021, she worked as a research student at ETRI's Language Intelligence Laboratory. She is currently part of the Natural Language Processing and Artificial Intelligence (NLP&AI) Laboratory. Her research interests include natural language processing, in particular, post-processing, information extraction, information retrieval, dialogue systems, and large language models.
 
 content:
-  - title: News
+  - title: *News*
     layout: text
     content: | # this will include new lines to allow paragraphs
       - 09/2024 “Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts” has been accepted to EMNLP 2024.
