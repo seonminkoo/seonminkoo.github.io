@@ -79,7 +79,7 @@ content:
       - **Korea University (2022.03 - Present)**
         - Ph.D. Candidate (The Integrated Master&Ph.D. Course)
         - Computer Science and Engineering Artificial Intelligence Applications
-      - Konkuk University (2018.03 - 2022.02)
+      - **Konkuk University (2018.03 - 2022.02)**
         - Bachelor Degree Graduate
         - Computer Science and Engineering
         
@@ -87,22 +87,6 @@ content:
           - Pseudo Lab's Paper Reading Track (2021)
           - AI Lab Korea Open Lab 8th (2021)
           - KUSITMS: Korean University Students IT, Management Society (2020)
-
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Korea University (2022.03 - Present)
-        sub_title: Ph.D. Candidate (The Integrated Master&Ph.D. Course)
-        content: |
-          - Computer Science and Engineering Artificial Intelligence Applications
-        # caption: 
-          # - Computer Science and Engineering Artificial Intelligence Applications
-        # quote: >
-        #   Computer Science and Engineering Artificial Intelligence Applications
-        # description: | # this will include new lines to allow paragraphs
-        #   Description of qualification
-      
 
 
   # - title: Projects # Title for the section
