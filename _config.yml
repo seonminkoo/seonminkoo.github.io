@@ -96,31 +96,55 @@ content:
         
           The 2024 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2024 Main</mark>
         
-          **Seonmin Koo**, Jinsung Kim, YoungJoon Jang, Chanjun Park, and Heuiseok Lim
+          **Seonmin Koo(\*)**, Jinsung Kim(\*), YoungJoon Jang, Chanjun Park, and Heuiseok Lim
 
         - PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models
 
           The 2024 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2024 Main</mark>
 
-          Jinsung Kim, **Seonmin Koo(*)**, and Heuiseok Lim
+          Jinsung Kim(\*), **Seonmin Koo(\*)**, and Heuiseok Lim
 
         - Search if you don’t know! Knowledge-Augmented Korean Grammatical Error Correction with Large Language Models
         
           The 2024 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2024 Findings</mark>
         
-          **Seonmin Koo(\*)**, Jinsung Kim(*), Chanjun Park, and Heuiseok Lim
+          **Seonmin Koo(\*)**, Jinsung Kim(\*), Chanjun Park, and Heuiseok Lim
         
         - Revisiting Under-represented Knowledge of Latin American Literature in Large Language Models
           
           The 27th European Conference on Artificial Intelligence <mark>ECAI 2024 Main</mark>
           
-          Jinsung Kim(*), **Seonmin Koo(*)**, and Heuiseok Lim
+          Jinsung Kim(\*), **Seonmin Koo(\*)**, and Heuiseok Lim
+        
+        - KNOTICED: A Dataset for Critical Error Detection in English-Korean Machine Translation Considering Cross-Cultural Factors in English-Korean Translation
+        
+          The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation <mark>LREC-COLING 2024</mark> 
+          
+          Sugyeong Eo, Jungwoo Lim, Chanjun Park, Dahyun Jung, **Seonmin Koo**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim
 
         - KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing
         
           The 2023 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2023 Main</mark>
           
-          **Seonmin Koo(*)**, Chanjun Park(*), Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, and Heuiseok Lim 
+          **Seonmin Koo(\*)**, Chanjun Park(\*), Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, and Heuiseok Lim
+
+        - Toward Practical Automatic Speech Recognition and Post-Processing: a Call for Explainable Error Benchmark Guideline
+        
+          International Conference on Machine Learning (ICML) 2023 – DataPerf (workshop) 
+          
+          **Seonmin Koo(\*)**, Chanjun Park(\*), Jinsung Kim, Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim 
+        
+        - Synthetic Alone: Exploring the Dark Side of Synthetic Data for Grammatical Error Correction
+        
+          International Conference on Machine Learning (ICML) 2023 – DataPerf (workshop) 
+          
+          Chanjun Park(\*), **Seonmin Koo(\*)**, Seolhwa Lee(*), Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim
+        
+        - A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation
+        
+          The 2022 Conference of the North American Chapter of the Association for Computational Linguistics <mark>NAACL 2022 Findings</mark>
+          
+          Jaehyung Seo, Seounghoon Lee, Chanjun Park, Yoonna Jang, Hyeonseok Moon, Sugyeong Eo, **Seonmin Koo**, Heuiseok Lim
       
       #### **International Journal**
         - Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts
