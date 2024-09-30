@@ -91,7 +91,7 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ### Korea University (2022.03 - Present)
+      - Korea University (2022.03 - Present)
         - Ph.D. Candidate (The Integrated Master&Ph.D. Course)
         - Computer Science and Engineering Artificial Intelligence Applications
       - **Konkuk University (2018.03 - 2022.02)**
@@ -108,7 +108,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        # border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: International Conference
         content: |
