@@ -91,18 +91,14 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      #### Korea University (2022.03 - Present)
-        - Ph.D. Candidate (The Integrated Master&Ph.D. Course)
-        - Computer Science and Engineering Artificial Intelligence Applications
-      - **Konkuk University (2018.03 - 2022.02)**
-        - Bachelor Degree Graduate
-        - Computer Science and Engineering
-        
-        - Clubs and societies 
-          - Pseudo Lab's Paper Reading Track (2021)
-          - AI Lab Korea Open Lab 8th (2021)
-          - KUSITMS: Korean University Students IT, Management Society (2020)
-
+      #### International Conference
+        - PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models
+          The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main)
+          Jinsung Kim, Seonmin Koo, and Heuiseok Lim
+        - PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models
+          The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Main)
+          Jinsung Kim, Seonmin Koo, and Heuiseok Lim
+      
   
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -111,8 +107,6 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: International Conference
-    content: |
-      - dddddddklf kl
 
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text
