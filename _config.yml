@@ -57,36 +57,36 @@ about_content: | # this will include new lines to allow paragraphs
   In 2021, she worked as a research student at ETRI's Language Intelligence Laboratory. She is currently part of the Natural Language Processing and Artificial Intelligence (NLP&AI) Laboratory. Her research interests include natural language processing, in particular, post-processing, information extraction, information retrieval, dialogue systems, and large language models.
 
 content:
-  - title: *News*
+  - title: News
     layout: list
     content: | # this will include new lines to allow paragraphs
       - 09/2024 “Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts” has been accepted to EMNLP 2024.
       - 09/2024 “PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models” has been accepted to EMNLP 2024.
       - 09/2024 “Search if you don’t know! Knowledge-Augmented Korean Grammatical Error Correction with Large Language Models” has been accepted to Findings of EMNLP 2024.
   
-  # - title: Research Interest
-  #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
-  #     - Natural Language Processing
-  #     - Post-processing
-  #     - Information Extraction and Retrieval
-  #     - Dialogue System
-  #     - Large Language Model
+  - title: Research Interest
+    layout: list
+    content: | 
+      - Natural Language Processing
+      - Post-processing
+      - Information Extraction and Retrieval
+      - Dialogue System
+      - Large Language Model
 
-  # - title: Education
-  #   layout: list
-  #   content: | # this will include new lines to allow paragraphs
-  #     - Korea University (2022.03 - Present)
-  #       - Ph.D. Candidate (The Integrated Master&Ph.D. Course)
-  #       - Computer Science and Engineering Artificial Intelligence Applications
-  #     - Konkuk University (2018.03 - 2022.02)
-  #       - Bachelor Degree Graduate
-  #       - Computer Science and Engineering
+  - title: Education
+    layout: list
+    content: | # this will include new lines to allow paragraphs
+      - Korea University (2022.03 - Present)
+        - Ph.D. Candidate (The Integrated Master&Ph.D. Course)
+        - Computer Science and Engineering Artificial Intelligence Applications
+      - Konkuk University (2018.03 - 2022.02)
+        - Bachelor Degree Graduate
+        - Computer Science and Engineering
         
-  #       - Clubs and societies 
-  #         - Pseudo Lab's Paper Reading Track (2021)
-  #         - AI Lab Korea Open Lab 8th (2021)
-  #         - KUSITMS: Korean University Students IT, Management Society (2020)
+        - Clubs and societies 
+          - Pseudo Lab's Paper Reading Track (2021)
+          - AI Lab Korea Open Lab 8th (2021)
+          - KUSITMS: Korean University Students IT, Management Society (2020)
 
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
