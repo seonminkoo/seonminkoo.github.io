@@ -52,17 +52,17 @@ googlescholar_username: vQNCQb8AAAAJ&hl
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/구선민프로필_240930.png
 about_content: | # this will include new lines to allow paragraphs
-  Seonmin Koo received a B.S. degree from the Department of Computer Science and Engineering, Konkuk University, Seoul, South Korea, in 2022, where she is currently pursuing a Ph.D. degree in computer science and engineering.
-  
-  In 2021, she worked as a research student at ETRI's Language Intelligence Laboratory. She is currently part of the Natural Language Processing and Artificial Intelligence (NLP&AI) Laboratory. Her research interests include natural language processing, in particular, post-processing, information extraction, information retrieval, dialogue systems, and large language models.
+  Seonmin Koo received a B.S. degree from the Department of Computer Science and Engineering, Konkuk University, Seoul, South Korea, in 2022, where she is currently pursuing a Ph.D. degree in computer science and engineering  at Korea University, Seoul, South Korea.
+
+  In 2021, she worked as a research student at ETRI's Language Intelligence Laboratory. She is currently part of the Natural Language Processing and Artificial Intelligence (NLP&AI) Laboratory. Her research interests include natural language processing, in particular, post-processing, information extraction and retrieval, dialogue systems, and large language models.
 
 content:
   - title: News!
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - 09/2024 “Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts” has been accepted to EMNLP 2024.
-      - 09/2024 “PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models” has been accepted to EMNLP 2024.
-      - 09/2024 “Search if you don’t know! Knowledge-Augmented Korean Grammatical Error Correction with Large Language Models” has been accepted to Findings of EMNLP 2024.
+      - 09/2024 “Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts” has been accepted to <mark>EMNLP 2024</mark>.
+      - 09/2024 “PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models” has been accepted to <mark>EMNLP 2024</mark>.
+      - 09/2024 “Search if you don’t know! Knowledge-Augmented Korean Grammatical Error Correction with Large Language Models” has been accepted to <mark>Findings of EMNLP 2024</mark>.
     
   - title: Research Interest
     layout: text
