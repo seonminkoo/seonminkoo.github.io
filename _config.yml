@@ -222,6 +222,12 @@ content:
         - A parallel corpus filtering methodology that automatically selects and removes data that is not suitable for training data
         - In collaboration with Naver Papago team
 
+  - title: Awards and Honors
+    layout: text
+    content: | 
+      - Received Korea University Best Paper Award 2023
+      
+
   - title: A Little More About Me
     layout: text
     content: | 
