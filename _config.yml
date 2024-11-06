@@ -233,9 +233,14 @@ content:
   - title: Projects
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Hyundai Motor Company (2024-2025)**
+      - **Hyundai Motor Company (2024-Present)**
         - Development of TableQA model and framework
         - In collaboration with the Infotainment department of Hyundai Motor Company
+
+      - **KT AI/LLM Benchmark (2024-Present)**
+        - Development of TableQA model and framework
+        - Appropriate benchmark dataset evaluation method and performance evaluation
+        - In collaboration with the KT
 
       - **Miri Canvans Company(2024-2024)**
         - Development of a model for extracting compatible elements
