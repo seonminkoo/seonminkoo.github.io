@@ -184,6 +184,19 @@ content:
           
           **Seonmin Koo(\*)**, Chanjun Park(*), Jaehyung Seo, Seungjun Lee, Hyeonseok Moon, Jungseob Lee, Heuiseok Lim
 
+      #### **Domestic Conference**
+        - Examining the Ability of Large Language Model on Entity-Based Korean Question-Answering (엔티티 기반 추론을 통한 거대 언어 모델의 한국어 질의응답 능력 연구)
+        
+          The 36th Annual Conference on Human & Cognitive Language Technology (HCLT 2024, 한글 및 한국어정보처리 학술대회)
+          
+          Seonmin Koo, Jinsung Kim, Chanjun Park, Kinam Park, and Heuiseok Lim
+
+        - Exploring Korean Question Answering Ability of Large Language Model by Question Corruption (질의 변형에 따른 거대 언어모델의 한국어 질의응답 능력 연구)
+        
+          The 36th Annual Conference on Human & Cognitive Language Technology (HCLT 2024, 한글 및 한국어정보처리 학술대회)
+          
+          Jinsung Kim, Seonmin Koo, Kinam Park, and Heuiseok Lim
+
   - title: Projects
     layout: text
     content: | # this will include new lines to allow paragraphs
