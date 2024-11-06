@@ -189,13 +189,46 @@ content:
         
           The 36th Annual Conference on Human & Cognitive Language Technology (HCLT 2024, 한글 및 한국어정보처리 학술대회)
           
-          Seonmin Koo, Jinsung Kim, Chanjun Park, Kinam Park, and Heuiseok Lim
+          **Seonmin Koo**, Jinsung Kim, Chanjun Park, Kinam Park, and Heuiseok Lim
 
         - Exploring Korean Question Answering Ability of Large Language Model by Question Corruption (질의 변형에 따른 거대 언어모델의 한국어 질의응답 능력 연구)
         
           The 36th Annual Conference on Human & Cognitive Language Technology (HCLT 2024, 한글 및 한국어정보처리 학술대회)
           
-          Jinsung Kim, Seonmin Koo, Kinam Park, and Heuiseok Lim
+          Jinsung Kim, **Seonmin Koo**, Kinam Park, and Heuiseok Lim
+
+        - Examining the Feasibility of Utilizing a Large Language Model for Korean Grammatical Error Correction (한국어 맞춤법 교정을 위한 초거대 언어 모델의 잠재적 능력 탐색)
+        
+          The 35th Annual Conference on Human & Cognitive Language Technology (HCLT 2023, 한글 및 한국어정보처리 학술대회)
+          
+          **Seonmin Koo**, Chanjun Park, JeongBae Park, and Heuiseok Lim
+        
+        - Automatic Generation of Training Data for Korean Speech Recognition Post-Processor (한국어 음성인식 후처리기를 위한 학습 데이터 자동 생성 방안)
+        
+          The 34th Annual Conference on Human & Cognitive Language Technology (HCLT 2022, 한글 및 한국어정보처리 학술대회)
+          
+          **Seonmin Koo**, Chanjun Park, Hyeonseok Moon, Jaehyung Seo, Sugyeong Eo, Yuna Hur, and Heuiseok Lim
+        
+        - KoCED: English-Korean Critical Error Detection Dataset (KoCED: 윤리 및 사회적 문제를 초래하는 기계번역 오류 탐지를 위한 학습 데이터셋)
+        
+          The 34th Annual Conference on Human & Cognitive Language Technology (HCLT 2022, 한글 및 한국어정보처리 학술대회)
+          
+          Sugyeong Eo, Suwon Choi, **Seonmin Koo**, Dahyun Jung, Chanjun Park, Jaehyung Seo, Hyeonseok Moon, Jeongbae Park, and Heuiseok Lim
+
+        - Error Type Categorization for deep learning-based Korean Spelling Correction (딥러닝 기반 한국어 맞춤법 교정 연구를 위한 오류 유형 분류)
+          
+          Korea Software Congress 2021 (KSC2021, 한국소프트웨어종합학술대회)
+          
+          **Seonmin Koo**, Chanjun Park, and Heuiseok Lim
+
+      #### **Domestic Journal**
+        - Classification and analysis of error types for deep learning-based Korean spelling correction (딥러닝 기반 한국어 맞춤법 교정을 위한 오류 유형 분류 및 분석)
+        
+          Journal of the Korea Convergence Society, 12(12), 65-74.
+          
+          **Seonmin Koo**, Chanjun Park, Aram So, and Heuiseok Lim
+
+
 
   - title: Projects
     layout: text
