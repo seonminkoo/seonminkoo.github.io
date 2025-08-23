@@ -62,9 +62,9 @@ content:
   - title: News!
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - 09/2024 “Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts” has been accepted to <mark>EMNLP 2024</mark>.
-      - 09/2024 “PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models” has been accepted to <mark>EMNLP 2024</mark>.
-      - 09/2024 “Search if you don’t know! Knowledge-Augmented Korean Grammatical Error Correction with Large Language Models” has been accepted to <mark>Findings of EMNLP 2024</mark>.
+      - 08/2025 “Semantic Inversion, Identical Replies: Revisiting Negation Blindness in Large Language Models” has been accepted to <mark>EMNLP 2024</mark>.
+      - 08/2025 “HAWK: Highlighting Entity-aware Knowledge for Alleviating Information Sparsity in Long Contexts” has been accepted to <mark>Findings of EMNLP 2024</mark>.
+      - 08/2025 “LimaCost: Data Valuation for Instruction Tuning of Large Language Models” has been accepted to <mark>Findings of EMNLP 2024</mark>.
     
   - title: Research Interest
     layout: text
@@ -94,6 +94,24 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       #### **International Conference**
+        - Semantic Inversion, Identical Replies: Revisiting Negation Blindness in Large Language Models
+        
+          The 2025 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2025 Main</mark>
+        
+          Jinsung Kim(\*), **Seonmin Koo(\*)**, and Heuiseok Lim
+
+        - HAWK: Highlighting Entity-aware Knowledge for Alleviating Information Sparsity in Long Contexts
+
+          The 2025 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2025 Findings</mark>
+
+          **Seonmin Koo(\*)**, Jinsung Kim(\*), Chanjun Park, and Heuiseok Lim
+        
+        - LimaCost: Data Valuation for Instruction Tuning of Large Language Models
+
+          The 2025 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2025 Findings</mark>
+
+          Hyeonseok Moon, Jaehyung Seo, **Seonmin Koo**, Jinsung Kim, Young-kyoung Ham, jiwon moon, and Heuiseok Lim
+        
         - Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts
         
           The 2024 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2024 Main</mark>
