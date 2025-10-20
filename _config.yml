@@ -54,7 +54,7 @@ about_profile_image: images/구선민프로필_240930
 about_content: | # this will include new lines to allow paragraphs
   I am currently part of the [Natural Language Processing and Artificial Intelligence (NLP&AI) Laboratory](https://nlp.korea.ac.kr/), advised by Prof. [Heuiseok Lim](https://scholar.google.com/citations?user=HMTkz7oAAAAJ&hl=en). 
 
-  My research interests include Natural Language Processing, in particular, Post-processing, Information Extraction and Retrieval, Dialogue Systems, and Large Language Models.
+  My research interests include Natural Language Processing, in particular, Information Extraction and Retrieval, Dialogue Systems, and Large Language Models.
   
 content:
   - title: News!
@@ -68,7 +68,6 @@ content:
     layout: text
     content: | 
       - Natural Language Processing
-      - Post-processing
       - Information Extraction and Retrieval
       - Dialogue System
       - Large Language Model
