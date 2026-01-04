@@ -61,7 +61,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - 01/2026 “I Know, but I Don't Know! How Persona Conflict Undermines Instruction Adherence in Large Language Models” has been accepted to <mark>Findings of EACL 2026</mark>.
-      - 01/2026 “Evaluating Over-Empathizing in Emotional Support Conversations: A User-Centered Framework” has been accepted to <mark>ESWA</mark>.
+      - 01/2026 “Evaluating Over-Empathizing in Emotional Support Conversations: A User-Centered Framework” has been accepted to <mark>ESWA Journal</mark>.
      
   - title: Research Interest
     layout: text
@@ -95,7 +95,7 @@ content:
           The 19th Conference of the European Chapter of the Association for Computational Linguistics <mark>EACL 2026 Findings</mark>
         
           **Seonmin Koo(\*)**, Jinsung Kim(\*), and Heuiseok Lim
-          
+
         - Semantic Inversion, Identical Replies: Revisiting Negation Blindness in Large Language Models
         
           The 2025 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2025 Main</mark>
