@@ -60,10 +60,9 @@ content:
   - title: News!
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - 08/2025 “Semantic Inversion, Identical Replies: Revisiting Negation Blindness in Large Language Models” has been accepted to <mark>EMNLP 2025</mark>.
-      - 08/2025 “HAWK: Highlighting Entity-aware Knowledge for Alleviating Information Sparsity in Long Contexts” has been accepted to <mark>Findings of EMNLP 2025</mark>.
-      - 08/2025 “LimaCost: Data Valuation for Instruction Tuning of Large Language Models” has been accepted to <mark>Findings of EMNLP 2025</mark>.
-    
+      - 01/2026 “I Know, but I Don't Know! How Persona Conflict Undermines Instruction Adherence in Large Language Models” has been accepted to <mark>Findings of EACL 2026</mark>.
+      - 01/2026 “Evaluating Over-Empathizing in Emotional Support Conversations: A User-Centered Framework” has been accepted to <mark>ESWA</mark>.
+     
   - title: Research Interest
     layout: text
     content: | 
@@ -91,6 +90,12 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       #### **International Conference**
+        - I Know, but I Don't Know! How Persona Conflict Undermines Instruction Adherence in Large Language Models
+        
+          The 19th Conference of the European Chapter of the Association for Computational Linguistics <mark>EACL 2026 Findings</mark>
+        
+          **Seonmin Koo(\*)**, Jinsung Kim(\*), and Heuiseok Lim
+          
         - Semantic Inversion, Identical Replies: Revisiting Negation Blindness in Large Language Models
         
           The 2025 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2025 Main</mark>
@@ -164,9 +169,15 @@ content:
           Jaehyung Seo, Seounghoon Lee, Chanjun Park, Yoonna Jang, Hyeonseok Moon, Sugyeong Eo, **Seonmin Koo**, Heuiseok Lim
       
       #### **International Journal**
+        - Evaluating Over-Empathizing in Emotional Support Conversations: A User-Centered Framework
+        
+          Expert Systems with Applications (ESWA), open access, 2026
+          
+          Suhyune Son, **Seonmin Koo**, Evelyn H. Zi, Jungsun Jang, and Heuiseok Lim
+
         - A Large-Scale Dataset for Korean Document-level Relation Extraction from Encyclopedia Texts
         
-          Applied Intelligence, open access, 2024
+          Applied Intelligence, 54(17), 8681-8701., 2024
           
           Suhyune Son, Jungwoo Lim, **Seonmin Koo**, Jinsung Kim, Younghoon Kim, Youngsik Lim, Dongseok Hyun, and Heuiseok Lim
           
