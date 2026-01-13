@@ -96,7 +96,7 @@ content:
         
           **Seonmin Koo(\*)**, Jinsung Kim(\*), and Heuiseok Lim
 
-        - Semantic Inversion, Identical Replies: Revisiting Negation Blindness in Large Language Models
+        - [Semantic Inversion, Identical Replies: Revisiting Negation Blindness in Large Language Models](https://aclanthology.org/2025.emnlp-main.1088/)
         
           The 2025 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2025 Main</mark>
         
@@ -108,43 +108,43 @@ content:
 
           **Seonmin Koo(\*)**, Jinsung Kim(\*), Chanjun Park, and Heuiseok Lim
         
-        - LimaCost: Data Valuation for Instruction Tuning of Large Language Models
+        - [LimaCost: Data Valuation for Instruction Tuning of Large Language Models](https://aclanthology.org/2025.findings-emnlp.688/)
 
           The 2025 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2025 Findings</mark>
 
           Hyeonseok Moon, Jaehyung Seo, **Seonmin Koo**, Jinsung Kim, Young-kyoung Ham, jiwon moon, and Heuiseok Lim
         
-        - Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts
+        - [Where am I? Large Language Models Wandering between Semantics and Structures in Long Contexts](https://aclanthology.org/2024.emnlp-main.783/)
         
           The 2024 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2024 Main</mark>
         
           **Seonmin Koo(\*)**, Jinsung Kim(\*), YoungJoon Jang, Chanjun Park, and Heuiseok Lim
 
-        - PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models
+        - [PANDA: Persona Attributes Navigation for Detecting and Alleviating Overuse Problem in Large Language Models](https://aclanthology.org/2024.emnlp-main.670/)
 
           The 2024 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2024 Main</mark>
 
           Jinsung Kim(\*), **Seonmin Koo(\*)**, and Heuiseok Lim
 
-        - Search if you don’t know! Knowledge-Augmented Korean Grammatical Error Correction with Large Language Models
+        - [Search if you don’t know! Knowledge-Augmented Korean Grammatical Error Correction with Large Language Models](https://aclanthology.org/2024.findings-emnlp.6/)
         
           The 2024 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2024 Findings</mark>
         
           **Seonmin Koo(\*)**, Jinsung Kim(\*), Chanjun Park, and Heuiseok Lim
         
-        - Revisiting Under-represented Knowledge of Latin American Literature in Large Language Models
+        - [Revisiting Under-represented Knowledge of Latin American Literature in Large Language Models](https://ebooks.iospress.nl/doi/10.3233/FAIA240934)
           
           The 27th European Conference on Artificial Intelligence <mark>ECAI 2024 Main</mark>
           
           Jinsung Kim(\*), **Seonmin Koo(\*)**, and Heuiseok Lim
         
-        - KNOTICED: A Dataset for Critical Error Detection in English-Korean Machine Translation Considering Cross-Cultural Factors in English-Korean Translation
+        - [Detecting Critical Errors Considering Cross-Cultural Factors in English-Korean Translation](https://aclanthology.org/2024.lrec-main.421/)
         
           The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation <mark>LREC-COLING 2024</mark> 
           
           Sugyeong Eo, Jungwoo Lim, Chanjun Park, Dahyun Jung, **Seonmin Koo**, Hyeonseok Moon, Jaehyung Seo, Heuiseok Lim
 
-        - KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing
+        - [KEBAP: Korean Error Explainable Benchmark Dataset for ASR and Post-processing](https://aclanthology.org/2023.emnlp-main.292/)
         
           The 2023 Conference on Empirical Methods in Natural Language Processing <mark>EMNLP 2023 Main</mark>
           
@@ -162,7 +162,7 @@ content:
           
           Chanjun Park(\*), **Seonmin Koo(\*)**, Seolhwa Lee(*), Jaehyung Seo, Sugyeong Eo, Hyeonseok Moon, Heuiseok Lim
         
-        - A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation
+        - [A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation](https://aclanthology.org/2022.findings-naacl.172/)
         
           The 2022 Conference of the North American Chapter of the Association for Computational Linguistics <mark>NAACL 2022 Findings</mark>
           
